@@ -1,0 +1,2 @@
+# moneywash
+FiveM Script vRP
